@@ -1,6 +1,6 @@
 [![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2019/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2701661E1DB5BB88BFB7815323BF9479)
 <h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">A passionate frontend developer from Moldova</h3>
+<h3 align="center">A passionate Python developer from Moldova</h3>
 (img align="right" alt="Coding" width="400" src="https://www.polyu.edu.hk/its/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olegplugaru&label=Profile%20views&color=0e75b6&style=flat" alt="olegplugaru" /> </p>
