@@ -1,11 +1,13 @@
-[![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2019/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2701661E1DB5BB88BFB7815323BF9479)
-<h1 align="center">Hi 👋, I'm Oleg</h1>
+
+
+[![MasterHead](https://i.ibb.co/MSvFLM0/0a0laq-Jqlpc-M-1584-396.png)
+<h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate Python developer from Moldova</h3>
-(img align="right" alt="Coding" width="400" src="https://www.polyu.edu.hk/its/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif")
+
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9521ea2600288b5785d497dae1b70e65ae5f47aac0d&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olegplugaru&label=Profile%20views&color=0e75b6&style=flat" alt="olegplugaru" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olegplugaru" alt="olegplugaru" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iron_man_md" target="blank"><img src="https://img.shields.io/twitter/follow/iron_man_md?logo=twitter&style=for-the-badge" alt="iron_man_md" /></a> </p>
 
@@ -33,5 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olegplugaru&show_icons=true&locale=en" alt="olegplugaru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olegplugaru&" alt="olegplugaru" /></p>
-
 
