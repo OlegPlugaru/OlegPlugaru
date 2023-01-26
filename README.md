@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
   <a href="https://openai.com/blog/chatgpt-2-code/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/OpenAI#/media/File:OpenAI_Logo.svg" alt="chatgpt" width="40" height="40"/>
+    <img src="https://img.icons8.com/nolan/64/chatgpt.png" alt="chatgpt" width="40" height="40"/>
   </a>
   <a href="https://www.sql.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/null/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="sql" width="40" height="40"/>
