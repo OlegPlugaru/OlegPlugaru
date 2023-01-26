@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/iron_man_md" target="blank"><img src="https://img.shields.io/twitter/follow/iron_man_md?logo=twitter&style=for-the-badge" alt="iron_man_md" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django, Linux, SQL**
+- 🌱 I’m currently learning **Python, Django, Linux, SQL, English**
 
 - 🤝 I’m looking for help with **Seekin internship, entry-level oportunity**
 
