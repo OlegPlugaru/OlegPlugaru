@@ -51,7 +51,7 @@
     <img src="https://en.wikipedia.org/wiki/OpenAI#/media/File:OpenAI_Logo.svg" alt="chatgpt" width="40" height="40"/>
   </a>
   <a href="https://www.sql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/null/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://www.archlinux.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch linux" width="40" height="40"/>
