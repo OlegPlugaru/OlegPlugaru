@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **oleg.plugaru.md@mgail.com**
 
-- ⚡ Fun fact **I installed linux on macbook**
+- ⚡ Fun fact **I installed ARCH linux as my daily driver, on my macbook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
