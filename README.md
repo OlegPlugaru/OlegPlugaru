@@ -57,7 +57,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch linux" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:C_Logo.png#/media/File:C_Logo.png" alt="c programming" width="40" height="40"/>
+    <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg#/media/File:C_Programming_Language.svg" alt="c programming" width="40" height="40"/>
   </a>
 
 </p>
