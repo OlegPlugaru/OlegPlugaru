@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGVHnNf0gU1VA/profile-displaybackgroundimage-shrink_350_1400/0/1669995304683?e=1684972800&v=beta&t=nce0rLIsOx96nyUN11Rz5NyDnXAubyW5ps_QQBfmQy4)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGVHnNf0gU1VA/profile-displaybackgroundimage-shrink_350_1400/0/1669995304683?e=1684972800&v=beta&t=nce0rLIsOx96nyUN11Rz5NyDnXAubyW5ps_QQBfmQy4)
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate Python developer from Moldova</h3>
 
