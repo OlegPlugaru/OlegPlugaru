@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://i.ibb.co/MSvFLM0/0a0laq-Jqlpc-M-1584-396.png)
+[![MasterHead](https://i.ibb.co/MSvFLM0/0a0laq-Jqlpc-M-1584-396.png)
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate Python developer from Moldova</h3>
 
