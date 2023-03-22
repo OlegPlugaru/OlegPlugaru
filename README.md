@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate Python developer from Moldova</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/26tn33aiTi1jkl6H6">via GIPHY</a></p>">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9521ea2600288b5785d497dae1b70e65ae5f47aac0d&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olegplugaru&label=Profile%20views&color=0e75b6&style=flat" alt="olegplugaru" /> </p>
