@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://i.ibb.co/MSvFLM0/0a0laq-Jqlpc-M-1584-396.png)
+![MasterHead](https://i.ibb.co/MSvFLM0/0a0laq-Jqlpc-M-1584-396.png)
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate Python developer from Moldova</h3>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **oleg.plugaru.md@mgail.com**
 
-- ⚡ Fun fact **I installed ARCH linux as my daily driver, on my macbook**
+- ⚡ Fun fact **"At the age of 32, I decided to learn coding and discovered a passion for it that led me to leave my previous job in the automotive industry to pursue a career in tech. Now, as a Python developer, I'm grateful for the decision to follow my passion and love the daily challenge of creating new software solutions."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
