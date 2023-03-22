@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **oleg.plugaru.md@mgail.com**
 
-- ⚡ Fun fact **At the age of 32, I decided to learn coding and discovered a passion for it that led me to leave my previous job in the automotive industry to pursue a career in tech. Now, as a Python developer, I'm grateful for the decision to follow my passion and love the daily challenge of creating new software solutions.**
+- ⚡ Fun fact **At t.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
