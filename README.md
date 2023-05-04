@@ -2,7 +2,7 @@
 
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGVHnNf0gU1VA/profile-displaybackgroundimage-shrink_350_1400/0/1669995304683?e=1684972800&v=beta&t=nce0rLIsOx96nyUN11Rz5NyDnXAubyW5ps_QQBfmQy4)
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
-<h3 align="center">A passionate Python developer from Moldova</h3>
+<h3 align="center">A passionate iOS developer from Moldova</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9521ea2600288b5785d497dae1b70e65ae5f47aac0d&rid=giphy.gif&ct=g">
 
