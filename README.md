@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Seekin internship, entry-level oportunity**
 
-- 💬 Ask me about **Swift, Python, MacOS, iOS, Linux**
+- 💬 Ask me about **Swift, WWDC, MacOS, iOS, Linux**
 
 - 📫 How to reach me **oleg.plugaru.md@mgail.com**
 
