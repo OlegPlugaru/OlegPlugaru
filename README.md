@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Swift, Python, SwiftUI, Linux, SQL, English**
 
-- 🤝 I’m looking for help with **Seekin internship, entry-level oportunity**
+- 🤝 Currently working as an iOS developer and continuously seeking new challenges and opportunities to contribute to innovative projects.**
 
 - 💬 Ask me about **Swift, WWDC, MacOS, iOS, Linux**
 
