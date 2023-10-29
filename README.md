@@ -1,6 +1,7 @@
 
+![1683365626212](https://github.com/OlegPlugaru/OlegPlugaru/assets/119738558/11f6f27c-217e-4f46-ad69-1d9af26541ae)
 
-![MasterHead](https://postimg.cc/XrcMM31j)
+
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate iOS developer from Moldova</h3>
 
