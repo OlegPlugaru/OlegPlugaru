@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/iron_man_md" target="blank"><img src="https://img.shields.io/twitter/follow/iron_man_md?logo=twitter&style=for-the-badge" alt="iron_man_md" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, Python, SwiftUI, Linux, SQL, English**
+- 🌱 I’m currently working with **Swift, SwiftUI**
 
 - 🤝 Currently working as an iOS developer and continuously seeking new challenges and opportunities to contribute to innovative projects.**
 
-- 💬 Ask me about **Swift, WWDC, MacOS, iOS, Linux**
+- 💬 Ask me about **Swift, WWDC, Apple, MacOS, iOS, Linux**
 
-- 📫 How to reach me **oleg.plugaru.md@mgail.com**
+- 📫 How to reach me **plugaruoleg@icloud.com**
 
 - ⚡ Fun fact about me: **I watch WWDC videos for fun.**
 
