@@ -1,6 +1,6 @@
 
 
-![MasterHead]([https://media.licdn.com/dms/image/D4D16AQElveXBuOxHCw/profile-displaybackgroundimage-shrink_350_1400/0/1683365626212?e=1688601600&v=beta&t=GdAKgK8P5UH8zTyRFX1eXb58X_dit2B4GB3JihfHVH8](https://www.linkedin.com/in/olegplugaru/overlay/background-image/))
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQElveXBuOxHCw/profile-displaybackgroundimage-shrink_350_1400/0/1683365626212?e=1688601600&v=beta&t=GdAKgK8P5UH8zTyRFX1eXb58X_dit2B4GB3JihfHVH8](https://www.linkedin.com/in/olegplugaru/overlay/background-image/))
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate iOS developer from Moldova</h3>
 
