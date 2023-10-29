@@ -1,6 +1,6 @@
 
 
-![MasterHead](<a href='https://postimg.cc/XrcMM31j' target='_blank'><img src='https://i.postimg.cc/XrcMM31j/temp-Imagedyi-Xk3.jpg' border='0' alt='temp-Imagedyi-Xk3'/></a>)
+![MasterHead](https://postimg.cc/XrcMM31j)
 <h1 align="center">Hi 👋, I'm Oleg Plugaru</h1>
 <h3 align="center">A passionate iOS developer from Moldova</h3>
 
